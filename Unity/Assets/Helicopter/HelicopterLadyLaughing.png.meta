@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: de2c699f2ec7c6346b5f7b38ac8d8b19
+timeCreated: 1438803004
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Helicopter Lady Laughing instance 10000
+    21300002: Helicopter Lady Laughing instance 10001
+    21300004: Helicopter Lady Laughing instance 10002
+    21300006: Helicopter Lady Laughing instance 10003
+    21300008: Helicopter Lady Laughing instance 10004
+    21300010: Helicopter Lady Laughing instance 10005
+    21300012: Helicopter Lady Laughing instance 10006
+    21300014: Helicopter Lady Laughing instance 10007
+    21300016: Helicopter Lady Laughing instance 10008
+    21300018: Helicopter Lady Laughing instance 10009
+    21300020: Helicopter Lady Laughing instance 10010
+    21300022: Helicopter Lady Laughing instance 10011
+    21300024: Helicopter Lady Laughing instance 10012
+    21300026: Helicopter Lady Laughing instance 10013
+    21300028: Helicopter Lady Laughing instance 10014
+    21300030: Helicopter Lady Laughing instance 10015
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Helicopter Lady Laughing instance 10000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Helicopter Lady Laughing instance 10001
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 424
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Helicopter Lady Laughing instance 10002
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 424
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Helicopter Lady Laughing instance 10003
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 424
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Helicopter Lady Laughing instance 10004
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Helicopter Lady Laughing instance 10005
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 336
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Helicopter Lady Laughing instance 10006
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 336
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Helicopter Lady Laughing instance 10007
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 336
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Helicopter Lady Laughing instance 10008
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Helicopter Lady Laughing instance 10009
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 248
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Helicopter Lady Laughing instance 10010
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 248
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Helicopter Lady Laughing instance 10011
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 248
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Helicopter Lady Laughing instance 10012
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Helicopter Lady Laughing instance 10013
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 160
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Helicopter Lady Laughing instance 10014
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 160
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Helicopter Lady Laughing instance 10015
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 160
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

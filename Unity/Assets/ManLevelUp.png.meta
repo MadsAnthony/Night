@@ -1,0 +1,1587 @@
+fileFormatVersion: 2
+guid: 0e6daec54bcd337439b7792211e1354a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hero LevelUp instance 10000
+    21300002: Hero LevelUp instance 10001
+    21300004: Hero LevelUp instance 10002
+    21300006: Hero LevelUp instance 10003
+    21300008: Hero LevelUp instance 10004
+    21300010: Hero LevelUp instance 10005
+    21300012: Hero LevelUp instance 10006
+    21300014: Hero LevelUp instance 10007
+    21300016: Hero LevelUp instance 10008
+    21300018: Hero LevelUp instance 10009
+    21300020: Hero LevelUp instance 10010
+    21300022: Hero LevelUp instance 10011
+    21300024: Hero LevelUp instance 10012
+    21300026: Hero LevelUp instance 10013
+    21300028: Hero LevelUp instance 10014
+    21300030: Hero LevelUp instance 10015
+    21300032: Hero LevelUp instance 10016
+    21300034: Hero LevelUp instance 10017
+    21300036: Hero LevelUp instance 10018
+    21300038: Hero LevelUp instance 10019
+    21300040: Hero LevelUp instance 10020
+    21300042: Hero LevelUp instance 10021
+    21300044: Hero LevelUp instance 10022
+    21300046: Hero LevelUp instance 10023
+    21300048: Hero LevelUp instance 10024
+    21300050: Hero LevelUp instance 10025
+    21300052: Hero LevelUp instance 10026
+    21300054: Hero LevelUp instance 10027
+    21300056: Hero LevelUp instance 10028
+    21300058: Hero LevelUp instance 10029
+    21300060: Hero LevelUp instance 10030
+    21300062: Hero LevelUp instance 10031
+    21300064: Hero LevelUp instance 10032
+    21300066: Hero LevelUp instance 10033
+    21300068: Hero LevelUp instance 10034
+    21300070: Hero LevelUp instance 10035
+    21300072: Hero LevelUp instance 10036
+    21300074: Hero LevelUp instance 10037
+    21300076: Hero LevelUp instance 10038
+    21300078: Hero LevelUp instance 10039
+    21300080: Hero LevelUp instance 10040
+    21300082: Hero LevelUp instance 10041
+    21300084: Hero LevelUp instance 10042
+    21300086: Hero LevelUp instance 10043
+    21300088: Hero LevelUp instance 10044
+    21300090: Hero LevelUp instance 10045
+    21300092: Hero LevelUp instance 10046
+    21300094: Hero LevelUp instance 10047
+    21300096: Hero LevelUp instance 10048
+    21300098: Hero LevelUp instance 10049
+    21300100: Hero LevelUp instance 10050
+    21300102: Hero LevelUp instance 10051
+    21300104: Hero LevelUp instance 10052
+    21300106: Hero LevelUp instance 10053
+    21300108: Hero LevelUp instance 10054
+    21300110: Hero LevelUp instance 10055
+    21300112: Hero LevelUp instance 10056
+    21300114: Hero LevelUp instance 10057
+    21300116: Hero LevelUp instance 10058
+    21300118: Hero LevelUp instance 10059
+    21300120: Hero LevelUp instance 10060
+    21300122: Hero LevelUp instance 10061
+    21300124: Hero LevelUp instance 10062
+    21300126: Hero LevelUp instance 10063
+    21300128: Hero LevelUp instance 10064
+    21300130: Hero LevelUp instance 10065
+    21300132: Hero LevelUp instance 10066
+    21300134: Hero LevelUp instance 10067
+    21300136: Hero LevelUp instance 10068
+    21300138: Hero LevelUp instance 10069
+    21300140: Hero LevelUp instance 10070
+    21300142: Hero LevelUp instance 10071
+    21300144: Hero LevelUp instance 10072
+    21300146: Hero LevelUp instance 10073
+    21300148: Hero LevelUp instance 10074
+    21300150: Hero LevelUp instance 10075
+    21300152: Hero LevelUp instance 10076
+    21300154: Hero LevelUp instance 10077
+    21300156: Hero LevelUp instance 10078
+    21300158: Hero LevelUp instance 10079
+    21300160: Hero LevelUp instance 10080
+    21300162: Hero LevelUp instance 10081
+    21300164: Hero LevelUp instance 10082
+    21300166: Hero LevelUp instance 10083
+    21300168: Hero LevelUp instance 10084
+    21300170: Hero LevelUp instance 10085
+    21300172: Hero LevelUp instance 10086
+    21300174: Hero LevelUp instance 10087
+    21300176: Hero LevelUp instance 10088
+    21300178: Hero LevelUp instance 10089
+    21300180: Hero LevelUp instance 10090
+    21300182: Hero LevelUp instance 10091
+    21300184: Hero LevelUp instance 10092
+    21300186: Hero LevelUp instance 10093
+    21300188: Hero LevelUp instance 10094
+    21300190: Hero LevelUp instance 10095
+    21300192: Hero LevelUp instance 10096
+    21300194: Hero LevelUp instance 10097
+    21300196: Hero LevelUp instance 10098
+    21300198: Hero LevelUp instance 10099
+    21300200: Hero LevelUp instance 10100
+    21300202: Hero LevelUp instance 10101
+    21300204: Hero LevelUp instance 10102
+    21300206: Hero LevelUp instance 10103
+    21300208: Hero LevelUp instance 10104
+    21300210: Hero LevelUp instance 10105
+    21300212: Hero LevelUp instance 10106
+    21300214: Hero LevelUp instance 10107
+    21300216: Hero LevelUp instance 10108
+    21300218: Hero LevelUp instance 10109
+    21300220: Hero LevelUp instance 10110
+    21300222: Hero LevelUp instance 10111
+    21300224: Hero LevelUp instance 10112
+    21300226: Hero LevelUp instance 10113
+    21300228: Hero LevelUp instance 10114
+    21300230: Hero LevelUp instance 10115
+    21300232: Hero LevelUp instance 10116
+    21300234: Hero LevelUp instance 10117
+    21300236: Hero LevelUp instance 10118
+    21300238: Hero LevelUp instance 10119
+    21300240: Hero LevelUp instance 10120
+    21300242: Hero LevelUp instance 10121
+    21300244: Hero LevelUp instance 10122
+    21300246: Hero LevelUp instance 10123
+    21300248: Hero LevelUp instance 10124
+    21300250: Hero LevelUp instance 10125
+    21300252: Hero LevelUp instance 10126
+    21300254: Hero LevelUp instance 10127
+    21300256: Hero LevelUp instance 10128
+    21300258: Hero LevelUp instance 10129
+    21300260: Hero LevelUp instance 10130
+    21300262: Hero LevelUp instance 10131
+    21300264: Hero LevelUp instance 10132
+    21300266: Hero LevelUp instance 10133
+    21300268: Hero LevelUp instance 10134
+    21300270: Hero LevelUp instance 10135
+    21300272: Hero LevelUp instance 10136
+    21300274: Hero LevelUp instance 10137
+    21300276: Hero LevelUp instance 10138
+    21300278: Hero LevelUp instance 10139
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Hero LevelUp instance 10000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1931
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10001
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1931
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10002
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1931
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10003
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1931
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10004
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1931
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10005
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1931
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10006
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1931
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10007
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1931
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10008
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1931
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10009
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1931
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10010
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1814
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10011
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1814
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10012
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1814
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10013
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1814
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10014
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1814
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10015
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1814
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10016
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1814
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10017
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1814
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10018
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1814
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10019
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1814
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10020
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1697
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10021
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1697
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10022
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1697
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10023
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1697
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10024
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1697
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10025
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1697
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10026
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1697
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10027
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1697
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10028
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1697
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10029
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1697
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10030
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1580
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10031
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1580
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10032
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1580
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10033
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1580
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10034
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1580
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10035
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1580
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10036
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1580
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10037
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1580
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10038
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1580
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10039
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1580
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10040
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1463
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10041
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1463
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10042
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1463
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10043
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1463
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10044
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1463
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10045
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1463
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10046
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1463
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10047
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1463
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10048
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1463
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10049
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1463
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10050
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1346
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10051
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1346
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10052
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1346
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10053
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1346
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10054
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1346
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10055
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1346
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10056
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1346
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10057
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1346
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10058
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1346
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10059
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1346
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10060
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1229
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10061
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1229
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10062
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1229
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10063
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1229
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10064
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1229
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10065
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1229
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10066
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1229
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10067
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1229
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10068
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1229
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10069
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1229
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10070
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1112
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10071
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1112
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10072
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1112
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10073
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1112
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10074
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1112
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10075
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1112
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10076
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1112
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10077
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1112
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10078
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1112
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10079
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1112
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10080
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 995
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10081
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 995
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10082
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 995
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10083
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 995
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10084
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 995
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10085
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 995
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10086
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 995
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10087
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 995
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10088
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 995
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10089
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 995
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10090
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 878
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10091
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 878
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10092
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 878
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10093
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 878
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10094
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 878
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10095
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 878
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10096
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 878
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10097
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 878
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10098
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 878
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10099
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 878
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 761
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10101
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 761
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 761
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10103
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 761
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10104
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 761
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10105
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 761
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10106
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 761
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10107
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 761
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10108
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 761
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10109
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 761
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 644
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10111
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 644
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10112
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 644
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10113
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 644
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10114
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 644
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10115
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 644
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10116
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 644
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10117
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 644
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10118
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 644
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10119
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 644
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 527
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10121
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 527
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10122
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 527
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10123
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 527
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 527
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10125
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 527
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10126
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 527
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10127
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 527
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10128
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 527
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10129
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 527
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 410
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10132
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 410
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10133
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 410
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10134
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 410
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10135
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 410
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10136
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 410
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10137
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 410
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10138
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 410
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero LevelUp instance 10139
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 410
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

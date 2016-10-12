@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 3833d1e5125e7e84a99acbc2ce8f7784
+timeCreated: 1443359288
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Explosion3 instance 10000
+    21300002: Explosion3 instance 10001
+    21300004: Explosion3 instance 10002
+    21300006: Explosion3 instance 10003
+    21300008: Explosion3 instance 10004
+    21300010: Explosion3 instance 10005
+    21300012: Explosion3 instance 10006
+    21300014: Explosion3 instance 10007
+    21300016: Explosion3 instance 10008
+    21300018: Explosion3 instance 10009
+    21300020: Explosion3 instance 10010
+    21300022: Explosion3 instance 10011
+    21300024: Explosion3 instance 10012
+    21300026: Explosion3 instance 10013
+    21300028: Explosion3 instance 10014
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Explosion3 instance 10000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 391
+        width: 123
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion3 instance 10001
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 391
+        width: 123
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion3 instance 10002
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 391
+        width: 123
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion3 instance 10003
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 391
+        width: 123
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion3 instance 10004
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 123
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion3 instance 10005
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 270
+        width: 123
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion3 instance 10006
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 270
+        width: 123
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion3 instance 10007
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 270
+        width: 123
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion3 instance 10008
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149
+        width: 123
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion3 instance 10009
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 149
+        width: 123
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion3 instance 10010
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 149
+        width: 123
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion3 instance 10011
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 149
+        width: 123
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion3 instance 10012
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 123
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion3 instance 10013
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 28
+        width: 123
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Explosion3 instance 10014
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 28
+        width: 123
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

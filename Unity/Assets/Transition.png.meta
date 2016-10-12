@@ -1,0 +1,823 @@
+fileFormatVersion: 2
+guid: 21b39213d1d5c7644a2d43093bd8e004
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Transition_0
+    21300002: Transition_1
+    21300004: Transition_2
+    21300006: Transition_3
+    21300008: Transition_4
+    21300010: Transition_5
+    21300012: Transition_6
+    21300014: Transition_7
+    21300016: Transition_8
+    21300018: Transition_9
+    21300020: Transition_10
+    21300022: Transition_11
+    21300024: Transition_12
+    21300026: Transition_13
+    21300028: Transition_14
+    21300030: Transition_15
+    21300032: Transition_16
+    21300034: Transition_17
+    21300036: Transition_18
+    21300038: Transition_19
+    21300040: Transition_20
+    21300042: Transition_21
+    21300044: Transition_22
+    21300046: Transition_23
+    21300048: Transition_24
+    21300050: Transition_25
+    21300052: Transition_26
+    21300054: Transition_27
+    21300056: Transition_28
+    21300058: Transition_29
+    21300060: Transition_30
+    21300062: Transition_31
+    21300064: Transition_32
+    21300066: Transition_33
+    21300068: Transition_34
+    21300070: Transition_35
+    21300072: Transition_36
+    21300074: Transition_37
+    21300076: Transition_38
+    21300078: Transition_39
+    21300080: Transition_40
+    21300082: Transition_41
+    21300084: Transition_42
+    21300086: Transition_43
+    21300088: Transition_44
+    21300090: Transition_45
+    21300092: Transition_46
+    21300094: Transition_47
+    21300096: Transition_48
+    21300098: Transition_49
+    21300100: Transition_50
+    21300102: Transition_51
+    21300104: Transition_52
+    21300106: Transition_53
+    21300108: Transition_54
+    21300110: Transition_55
+    21300112: Transition_56
+    21300114: Transition_57
+    21300116: Transition_58
+    21300118: Transition_59
+    21300120: Transition_60
+    21300122: Transition_61
+    21300124: Transition_62
+    21300126: Transition_63
+    21300128: Transition_64
+    21300130: Transition_65
+    21300132: Transition_66
+    21300134: Transition_67
+    21300136: Transition_68
+    21300138: Transition_69
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Transition_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7725
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_1
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 7725
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_2
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 7725
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_3
+      rect:
+        serializedVersion: 2
+        x: 3162
+        y: 7725
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_4
+      rect:
+        serializedVersion: 2
+        x: 4216
+        y: 7725
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_5
+      rect:
+        serializedVersion: 2
+        x: 5270
+        y: 7725
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_6
+      rect:
+        serializedVersion: 2
+        x: 6324
+        y: 7725
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7258
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_8
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 7258
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_9
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 7258
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_10
+      rect:
+        serializedVersion: 2
+        x: 3162
+        y: 7258
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_11
+      rect:
+        serializedVersion: 2
+        x: 4216
+        y: 7258
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_12
+      rect:
+        serializedVersion: 2
+        x: 5270
+        y: 7258
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_13
+      rect:
+        serializedVersion: 2
+        x: 6324
+        y: 7258
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6791
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_15
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 6791
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_16
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 6791
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_17
+      rect:
+        serializedVersion: 2
+        x: 3162
+        y: 6791
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_18
+      rect:
+        serializedVersion: 2
+        x: 4216
+        y: 6791
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_19
+      rect:
+        serializedVersion: 2
+        x: 5270
+        y: 6791
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_20
+      rect:
+        serializedVersion: 2
+        x: 6324
+        y: 6791
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6324
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_22
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 6324
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_23
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 6324
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_24
+      rect:
+        serializedVersion: 2
+        x: 3162
+        y: 6324
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_25
+      rect:
+        serializedVersion: 2
+        x: 4216
+        y: 6324
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_26
+      rect:
+        serializedVersion: 2
+        x: 5270
+        y: 6324
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_27
+      rect:
+        serializedVersion: 2
+        x: 6324
+        y: 6324
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5857
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_29
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 5857
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_30
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 5857
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_31
+      rect:
+        serializedVersion: 2
+        x: 3162
+        y: 5857
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_32
+      rect:
+        serializedVersion: 2
+        x: 4216
+        y: 5857
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_33
+      rect:
+        serializedVersion: 2
+        x: 5270
+        y: 5857
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_34
+      rect:
+        serializedVersion: 2
+        x: 6324
+        y: 5857
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5390
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_36
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 5390
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_37
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 5390
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_38
+      rect:
+        serializedVersion: 2
+        x: 3162
+        y: 5390
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_39
+      rect:
+        serializedVersion: 2
+        x: 4216
+        y: 5390
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_40
+      rect:
+        serializedVersion: 2
+        x: 5270
+        y: 5390
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_41
+      rect:
+        serializedVersion: 2
+        x: 6324
+        y: 5390
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4923
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_43
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 4923
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_44
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 4923
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_45
+      rect:
+        serializedVersion: 2
+        x: 3162
+        y: 4923
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_46
+      rect:
+        serializedVersion: 2
+        x: 4216
+        y: 4923
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_47
+      rect:
+        serializedVersion: 2
+        x: 5270
+        y: 4923
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_48
+      rect:
+        serializedVersion: 2
+        x: 6324
+        y: 4923
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4456
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_50
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 4456
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_51
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 4456
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_52
+      rect:
+        serializedVersion: 2
+        x: 3162
+        y: 4456
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_53
+      rect:
+        serializedVersion: 2
+        x: 4216
+        y: 4456
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_54
+      rect:
+        serializedVersion: 2
+        x: 5270
+        y: 4456
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_55
+      rect:
+        serializedVersion: 2
+        x: 6324
+        y: 4456
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3989
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_57
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 3989
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_58
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 3989
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_59
+      rect:
+        serializedVersion: 2
+        x: 3162
+        y: 3989
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_60
+      rect:
+        serializedVersion: 2
+        x: 4216
+        y: 3989
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_61
+      rect:
+        serializedVersion: 2
+        x: 5270
+        y: 3989
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_62
+      rect:
+        serializedVersion: 2
+        x: 6324
+        y: 3989
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3522
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_64
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 3522
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_65
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 3522
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_66
+      rect:
+        serializedVersion: 2
+        x: 3162
+        y: 3522
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_67
+      rect:
+        serializedVersion: 2
+        x: 4216
+        y: 3522
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_68
+      rect:
+        serializedVersion: 2
+        x: 5270
+        y: 3522
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Transition_69
+      rect:
+        serializedVersion: 2
+        x: 6324
+        y: 3522
+        width: 1054
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

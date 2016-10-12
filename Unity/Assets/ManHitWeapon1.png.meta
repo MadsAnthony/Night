@@ -1,0 +1,418 @@
+fileFormatVersion: 2
+guid: e61cc0b633025df40a5489fa27eb6aa7
+timeCreated: 1437581316
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hero Idle Hold Attack instance 10000
+    21300002: Hero Idle Hold Attack instance 10001
+    21300004: Hero Idle Hold Attack instance 10002
+    21300006: Hero Idle Hold Attack instance 10003
+    21300008: Hero Idle Hold Attack instance 10004
+    21300010: Hero Idle Hold Attack instance 10005
+    21300012: Hero Idle Hold Attack instance 10006
+    21300014: Hero Idle Hold Attack instance 10007
+    21300016: Hero Idle Hold Attack instance 10008
+    21300018: Hero Idle Hold Attack instance 10009
+    21300020: Hero Idle Hold Attack instance 10010
+    21300022: Hero Idle Hold Attack instance 10011
+    21300024: Hero Idle Hold Attack instance 10012
+    21300026: Hero Idle Hold Attack instance 10013
+    21300028: Hero Idle Hold Attack instance 10014
+    21300030: Hero Idle Hold Attack instance 10015
+    21300032: Hero Idle Hold Attack instance 10016
+    21300034: Hero Idle Hold Attack instance 10017
+    21300036: Hero Idle Hold Attack instance 10018
+    21300038: Hero Idle Hold Attack instance 10019
+    21300040: Hero Idle Hold Attack instance 10020
+    21300042: Hero Idle Hold Attack instance 10021
+    21300044: Hero Idle Hold Attack instance 10022
+    21300046: Hero Idle Hold Attack instance 10023
+    21300048: Hero Idle Hold Attack instance 10024
+    21300050: Hero Idle Hold Attack instance 10025
+    21300052: Hero Idle Hold Attack instance 10026
+    21300054: Hero Idle Hold Attack instance 10027
+    21300056: Hero Idle Hold Attack instance 10028
+    21300058: Hero Idle Hold Attack instance 10029
+    21300060: Hero Idle Hold Attack instance 10030
+    21300062: Hero Idle Hold Attack instance 10031
+    21300064: Hero Idle Hold Attack instance 10032
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Hero Idle Hold Attack instance 10000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 904
+        width: 197
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero Idle Hold Attack instance 10001
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 904
+        width: 197
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero Idle Hold Attack instance 10002
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 904
+        width: 197
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero Idle Hold Attack instance 10003
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 904
+        width: 197
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero Idle Hold Attack instance 10004
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 904
+        width: 197
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero Idle Hold Attack instance 10005
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784
+        width: 197
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero Idle Hold Attack instance 10006
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 784
+        width: 197
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero Idle Hold Attack instance 10007
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 784
+        width: 197
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero Idle Hold Attack instance 10008
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 784
+        width: 197
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero Idle Hold Attack instance 10009
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 784
+        width: 197
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero Idle Hold Attack instance 10010
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 664
+        width: 197
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero Idle Hold Attack instance 10011
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 664
+        width: 197
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero Idle Hold Attack instance 10012
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 664
+        width: 197
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero Idle Hold Attack instance 10013
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 664
+        width: 197
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero Idle Hold Attack instance 10014
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 664
+        width: 197
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero Idle Hold Attack instance 10015
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 197
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero Idle Hold Attack instance 10016
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 544
+        width: 197
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero Idle Hold Attack instance 10017
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 544
+        width: 197
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero Idle Hold Attack instance 10018
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 544
+        width: 197
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero Idle Hold Attack instance 10019
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 544
+        width: 197
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero Idle Hold Attack instance 10020
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 197
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero Idle Hold Attack instance 10021
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 424
+        width: 197
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero Idle Hold Attack instance 10022
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 424
+        width: 197
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero Idle Hold Attack instance 10023
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 424
+        width: 197
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero Idle Hold Attack instance 10024
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 424
+        width: 197
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero Idle Hold Attack instance 10025
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 197
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero Idle Hold Attack instance 10026
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 304
+        width: 197
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero Idle Hold Attack instance 10027
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 304
+        width: 197
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero Idle Hold Attack instance 10028
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 304
+        width: 197
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero Idle Hold Attack instance 10029
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 304
+        width: 197
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero Idle Hold Attack instance 10030
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 197
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero Idle Hold Attack instance 10031
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 184
+        width: 197
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero Idle Hold Attack instance 10032
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 184
+        width: 197
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

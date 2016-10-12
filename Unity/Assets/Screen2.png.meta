@@ -1,0 +1,1164 @@
+fileFormatVersion: 2
+guid: a9436c4fd00cb7647b56d36bcd098095
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Screen2 instance 10000
+    21300002: Screen2 instance 10001
+    21300004: Screen2 instance 10002
+    21300006: Screen2 instance 10003
+    21300008: Screen2 instance 10004
+    21300010: Screen2 instance 10005
+    21300012: Screen2 instance 10006
+    21300014: Screen2 instance 10007
+    21300016: Screen2 instance 10008
+    21300018: Screen2 instance 10009
+    21300020: Screen2 instance 10010
+    21300022: Screen2 instance 10011
+    21300024: Screen2 instance 10012
+    21300026: Screen2 instance 10013
+    21300028: Screen2 instance 10014
+    21300030: Screen2 instance 10015
+    21300032: Screen2 instance 10016
+    21300034: Screen2 instance 10017
+    21300036: Screen2 instance 10018
+    21300038: Screen2 instance 10019
+    21300040: Screen2 instance 10020
+    21300042: Screen2 instance 10021
+    21300044: Screen2 instance 10022
+    21300046: Screen2 instance 10023
+    21300048: Screen2 instance 10024
+    21300050: Screen2 instance 10025
+    21300052: Screen2 instance 10026
+    21300054: Screen2 instance 10027
+    21300056: Screen2 instance 10028
+    21300058: Screen2 instance 10029
+    21300060: Screen2 instance 10030
+    21300062: Screen2 instance 10031
+    21300064: Screen2 instance 10032
+    21300066: Screen2 instance 10033
+    21300068: Screen2 instance 10034
+    21300070: Screen2 instance 10035
+    21300072: Screen2 instance 10036
+    21300074: Screen2 instance 10037
+    21300076: Screen2 instance 10038
+    21300078: Screen2 instance 10039
+    21300080: Screen2 instance 10040
+    21300082: Screen2 instance 10041
+    21300084: Screen2 instance 10042
+    21300086: Screen2 instance 10043
+    21300088: Screen2 instance 10044
+    21300090: Screen2 instance 10045
+    21300092: Screen2 instance 10046
+    21300094: Screen2 instance 10047
+    21300096: Screen2 instance 10048
+    21300098: Screen2 instance 10049
+    21300100: Screen2 instance 10050
+    21300102: Screen2 instance 10051
+    21300104: Screen2 instance 10052
+    21300106: Screen2 instance 10053
+    21300108: Screen2 instance 10054
+    21300110: Screen2 instance 10055
+    21300112: Screen2 instance 10056
+    21300114: Screen2 instance 10057
+    21300116: Screen2 instance 10058
+    21300118: Screen2 instance 10059
+    21300120: Screen2 instance 10060
+    21300122: Screen2 instance 10061
+    21300124: Screen2 instance 10062
+    21300126: Screen2 instance 10063
+    21300128: Screen2 instance 10064
+    21300130: Screen2 instance 10065
+    21300132: Screen2 instance 10066
+    21300134: Screen2 instance 10067
+    21300136: Screen2 instance 10068
+    21300138: Screen2 instance 10069
+    21300140: Screen2 instance 10070
+    21300142: Screen2 instance 10071
+    21300144: Screen2 instance 10072
+    21300146: Screen2 instance 10073
+    21300148: Screen2 instance 10074
+    21300150: Screen2 instance 10075
+    21300152: Screen2 instance 10076
+    21300154: Screen2 instance 10077
+    21300156: Screen2 instance 10078
+    21300158: Screen2 instance 10079
+    21300160: Screen2 instance 10080
+    21300162: Screen2 instance 10081
+    21300164: Screen2 instance 10082
+    21300166: Screen2 instance 10083
+    21300168: Screen2 instance 10084
+    21300170: Screen2 instance 10085
+    21300172: Screen2 instance 10086
+    21300174: Screen2 instance 10087
+    21300176: Screen2 instance 10088
+    21300178: Screen2 instance 10089
+    21300180: Screen2 instance 10090
+    21300182: Screen2 instance 10091
+    21300184: Screen2 instance 10092
+    21300186: Screen2 instance 10093
+    21300188: Screen2 instance 10094
+    21300190: Screen2 instance 10095
+    21300192: Screen2 instance 10096
+    21300194: Screen2 instance 10097
+    21300196: Screen2 instance 10098
+    21300198: Screen2 instance 10099
+    21300200: Screen2 instance 10100
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Screen2 instance 10000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3740
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10001
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 3740
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10002
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 3740
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10003
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 3740
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10004
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 3740
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10005
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 3740
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10006
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 3740
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10007
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 3740
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10008
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 3740
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10009
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 3740
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10010
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 3740
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10011
+      rect:
+        serializedVersion: 2
+        x: 3443
+        y: 3740
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10012
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 3740
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10013
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3384
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10014
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 3384
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10015
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 3384
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10016
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 3384
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10017
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 3384
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10018
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 3384
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10019
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 3384
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10020
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 3384
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10021
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 3384
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10022
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 3384
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10023
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 3384
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10024
+      rect:
+        serializedVersion: 2
+        x: 3443
+        y: 3384
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10025
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 3384
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10026
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3028
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10027
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 3028
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10028
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 3028
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10029
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 3028
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10030
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 3028
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10031
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 3028
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10032
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 3028
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10033
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 3028
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10034
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 3028
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10035
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 3028
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10036
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 3028
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10037
+      rect:
+        serializedVersion: 2
+        x: 3443
+        y: 3028
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10038
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 3028
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10039
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2672
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10040
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2672
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10041
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 2672
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10042
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 2672
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10043
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 2672
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10044
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 2672
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10045
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 2672
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10046
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 2672
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10047
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 2672
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10048
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 2672
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10049
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 2672
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10050
+      rect:
+        serializedVersion: 2
+        x: 3443
+        y: 2672
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10051
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 2672
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10052
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2316
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10053
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2316
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10054
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 2316
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10055
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 2316
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10056
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 2316
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10057
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 2316
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10058
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 2316
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10059
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 2316
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10060
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 2316
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10061
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 2316
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10062
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 2316
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10063
+      rect:
+        serializedVersion: 2
+        x: 3443
+        y: 2316
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10064
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 2316
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10065
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1960
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10066
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1960
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10067
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1960
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10068
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1960
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10069
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1960
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10070
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1960
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10071
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1960
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10072
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 1960
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10073
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 1960
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10074
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 1960
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10075
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 1960
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10076
+      rect:
+        serializedVersion: 2
+        x: 3443
+        y: 1960
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10077
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 1960
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10078
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1604
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10079
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1604
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10080
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1604
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10081
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1604
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10082
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1604
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10083
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1604
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10084
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1604
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10085
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 1604
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10086
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 1604
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10087
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 1604
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10088
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 1604
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10089
+      rect:
+        serializedVersion: 2
+        x: 3443
+        y: 1604
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10090
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 1604
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10091
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1248
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10092
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1248
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10093
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1248
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10094
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1248
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10095
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1248
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10096
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1248
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10097
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1248
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10098
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 1248
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10099
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 1248
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screen2 instance 10100
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 1248
+        width: 313
+        height: 356
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
